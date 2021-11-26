@@ -1,0 +1,13 @@
+function convertToInteger(x, base) {
+const a = parseInt(x, base);
+const b = "JamesBond";
+if (isNaN(a)) { return NaN; }
+return a;
+
+}
+convertToInteger();
+convertToInteger();
+convertToInteger(); {
+  
+}
+ 
